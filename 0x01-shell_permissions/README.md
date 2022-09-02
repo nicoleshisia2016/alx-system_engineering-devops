@@ -1,1 +1,1 @@
-Script adds execution permission to everybody
+Script permits owners users and others
