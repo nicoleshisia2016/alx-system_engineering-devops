@@ -1,1 +1,1 @@
-Script that changes ownership
+Script that creates an empty file
