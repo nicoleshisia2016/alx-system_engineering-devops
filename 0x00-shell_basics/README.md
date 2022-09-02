@@ -1,1 +1,1 @@
-script to print absolute wd
+display contents of pwd
