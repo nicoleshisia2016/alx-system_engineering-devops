@@ -1,1 +1,1 @@
-Script that prints all groups user is part of
+Script that changes ownership
