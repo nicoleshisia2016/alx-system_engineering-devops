@@ -1,1 +1,1 @@
-Creates a directory my_dir
+Script changes file group owner
