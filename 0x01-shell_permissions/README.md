@@ -1,1 +1,1 @@
-My name is Betty
+Script that switches tocurrent user
