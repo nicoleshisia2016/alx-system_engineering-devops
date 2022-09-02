@@ -1,1 +1,1 @@
-Script that creates an empty file
+Script that adds execute permission
