@@ -1,1 +1,1 @@
-Script executes directories permisions
+Creates a directory my_dir
