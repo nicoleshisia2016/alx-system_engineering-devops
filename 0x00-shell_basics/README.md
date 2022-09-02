@@ -1,1 +1,1 @@
-display contents of pwd
+changes wd to user
