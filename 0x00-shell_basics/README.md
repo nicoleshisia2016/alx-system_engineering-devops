@@ -1,1 +1,1 @@
-Script prints absolute path
+Script displays cd in long format
