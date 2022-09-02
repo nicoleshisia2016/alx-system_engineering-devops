@@ -1,1 +1,1 @@
-Scripts that changes mode of file olleh to hello
+Adds execute permissions to all subdirectories
