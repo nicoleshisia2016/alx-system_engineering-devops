@@ -1,1 +1,1 @@
-Script that executes permission to owner and group
+Script adds execution permission to everybody
