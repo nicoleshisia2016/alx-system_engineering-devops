@@ -1,1 +1,1 @@
-Create a symbolic link in pwd
+Script that copies all html files
