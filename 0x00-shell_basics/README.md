@@ -1,1 +1,1 @@
-Prints the type of file iamafile
+Create a symbolic link in pwd
