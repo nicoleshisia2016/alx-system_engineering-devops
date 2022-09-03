@@ -1,1 +1,1 @@
-Script changes file group owner
+Script that switches ownership to betty
