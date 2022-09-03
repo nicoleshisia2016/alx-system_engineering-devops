@@ -1,1 +1,1 @@
-Script that switches ownership to betty
+Script that changes owner to vincent
