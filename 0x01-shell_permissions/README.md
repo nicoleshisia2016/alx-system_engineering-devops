@@ -1,1 +1,1 @@
-Script that changes owner to vincent
+Changes owner of group in symbolic link
