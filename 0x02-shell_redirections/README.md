@@ -1,1 +1,1 @@
-script that displays the contents of a file
+script that reads hello world
