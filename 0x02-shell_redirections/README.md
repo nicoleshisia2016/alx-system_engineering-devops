@@ -1,1 +1,1 @@
-script that reads hello world
+Display the content of /etc/passwd and /etc/host
