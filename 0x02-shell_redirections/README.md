@@ -1,1 +1,1 @@
-Displays 10 newest line
+Prints output that appear as one
