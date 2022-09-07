@@ -1,1 +1,1 @@
-sript that writes x content into y file and creates y if it doesnt exist
+Script that duplicates the last line of a file
