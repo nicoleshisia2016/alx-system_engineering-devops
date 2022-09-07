@@ -1,1 +1,1 @@
-Hello, world
+Display hello smiley face
