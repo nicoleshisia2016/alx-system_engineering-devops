@@ -1,1 +1,1 @@
-Script of a file namedx that reads x
+sript that writes x content into y file and creates y if it doesnt exist
