@@ -1,1 +1,1 @@
-Displays all users and there home directories
+More than two specifics
