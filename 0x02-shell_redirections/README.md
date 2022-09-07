@@ -1,1 +1,1 @@
-Words containing the pattern x
+Display the number of lines that contain the word
