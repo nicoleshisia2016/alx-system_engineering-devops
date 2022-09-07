@@ -1,1 +1,1 @@
-Display hello smiley face
+Hello world script
