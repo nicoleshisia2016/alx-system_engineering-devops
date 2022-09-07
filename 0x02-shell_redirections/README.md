@@ -1,1 +1,1 @@
-Displayslines with pattern root and three lines after
+Displays all the lines in the file
