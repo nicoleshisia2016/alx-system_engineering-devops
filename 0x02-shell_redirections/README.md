@@ -1,1 +1,1 @@
-Removes c and puts C
+Reverses input
