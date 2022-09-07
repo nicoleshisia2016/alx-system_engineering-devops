@@ -1,1 +1,1 @@
-Replace characters
+Removes c and puts C
