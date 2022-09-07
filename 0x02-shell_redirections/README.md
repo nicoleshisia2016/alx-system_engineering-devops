@@ -1,1 +1,1 @@
-Prints output that appear as one
+Words containing the pattern x
