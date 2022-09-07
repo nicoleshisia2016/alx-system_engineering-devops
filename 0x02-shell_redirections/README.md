@@ -1,1 +1,1 @@
-Display the number of lines that contain the word
+Displayslines with pattern root and three lines after
