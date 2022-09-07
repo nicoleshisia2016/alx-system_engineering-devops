@@ -1,1 +1,1 @@
-Displays all the lines in the file
+Displays all lines of a file and icludes capital letters
