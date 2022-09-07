@@ -1,1 +1,1 @@
-Counts number of directories and subdirectories
+Displays 10 newest line
